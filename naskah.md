@@ -1,5 +1,5 @@
-Judul Drama : Pembajakan Software
-Profil Tokoh
+#Judul Drama : Pembajakan Software
+#Profil Tokoh
 Adjie : Si Tangan Jahil yang suka meretas situs – situs. Dia sangat kaya dengan fasilitas mewah dia mampu meretas dimana saja.
 Ivan : Detektif dari Pustipanda, sering memakai baju preman untuk menyamar, ahli dalam melacak musuh dengan teknologi.
 Mia : Dosen yang lemah lembut , suka teknologi tapi panic dengan teknologi.

@@ -20,10 +20,9 @@ Mahasiswa : Saya sudah bu saya sudah.
 Mia :Baik , ibu cek sekarang yaa.
 *berniat buka webnya *
 Camera : shoot ke laptop
-Yang gak ngumpuli nilainya ibu kurangin yaa
+Mia : Yang gak ngumpulin nilainya ibu kurangin yaa 
 Camera : Shoot ke Mia
-Mahasiswa
-“Siaap buuu”
+Mahasiswa :“Siaap buuu”
 
 Sudah Buka Web
 

@@ -2,7 +2,7 @@
 
 #Profil Tokoh
 
-Adjie : Si Tangan Jahil yang suka meretas situs – situs. Dia sangat kaya dengan fasilitas mewah dia mampu meretas dimana saja.
+Adjie : Si Tangan Jahil yang suka membajak software dengan keahlian nya. 
 
 Ivan : Detektif dari Pustipanda, sering memakai baju preman untuk menyamar, ahli dalam melacak musuh dengan teknologi.
 

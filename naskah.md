@@ -1,8 +1,4 @@
-Si Usil
-Cerita dan skenario : Jar
-SINOPSIS
-Jaman sekarang banyak sekali kasus meretas situs. Entah untuk apa tujuannya tapi inilah realita yang terjadi. Hacker mulai mengincar situs – situs dan akun pendidikan. Website dosen juga menjadi incaran para tangan – tangan jahil. Website dosen tidak jarang berisi tugas – tugas kuliah mahasiswa dan juga data – data pembelajaran. Ini mungkin diambil celah oleh tangan jahil untuk menjual tugas mahasiswa itu kepada mahasiswa yang malas mengerjakannya. Atau si tangan jahil memanfaatkan ilmunya untuk mengganti nilai mahasiswa di akun dosen AIS. Ini sebuah kejadian yang menyusahkan dan juga menguntungan bagi si tangan jahil. Si tangan jahil diduga menjual jasa mengganti nilai dan menjual tugas – tugas mahasiswa kepada mahasiswa lainnya. Dosen harus waspada dengan kehadiran si tangan jahil.
-
+Judul Drama : Pembajakan Software
 Profil Tokoh
 Adjie : Si Tangan Jahil yang suka meretas situs – situs. Dia sangat kaya dengan fasilitas mewah dia mampu meretas dimana saja.
 Ivan : Detektif dari Pustipanda, sering memakai baju preman untuk menyamar, ahli dalam melacak musuh dengan teknologi.
@@ -10,6 +6,11 @@ Mia : Dosen yang lemah lembut , suka teknologi tapi panic dengan teknologi.
 Febri : Service desk Pustipanda, rajin tekun dan cerewet
 Fajar : Mahasiswa TI yang memakai jasa Adjie karena belum mengerjakan tugas. Dan News Anchor.
 Mahasiswa : Figuran saja
+
+SINOPSIS
+Jaman sekarang banyak sekali kasus meretas situs. Entah untuk apa tujuannya tapi inilah realita yang terjadi. Hacker mulai mengincar situs – situs dan akun pendidikan. Website dosen juga menjadi incaran para tangan – tangan jahil. Website dosen tidak jarang berisi tugas – tugas kuliah mahasiswa dan juga data – data pembelajaran. Ini mungkin diambil celah oleh tangan jahil untuk menjual tugas mahasiswa itu kepada mahasiswa yang malas mengerjakannya. Atau si tangan jahil memanfaatkan ilmunya untuk mengganti nilai mahasiswa di akun dosen AIS. Ini sebuah kejadian yang menyusahkan dan juga menguntungan bagi si tangan jahil. Si tangan jahil diduga menjual jasa mengganti nilai dan menjual tugas – tugas mahasiswa kepada mahasiswa lainnya. Dosen harus waspada dengan kehadiran si tangan jahil.
+
+
 01.  INT. Dalam Kelas : Laptop Projektor, bantuan tokoh sebagai figuran mahasiswa 4/5
 
 *Mia masuk kekelas Duduk buka laptop *

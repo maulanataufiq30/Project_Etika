@@ -1,10 +1,17 @@
 #Judul Drama : Pembajakan Software
+
 #Profil Tokoh
+
 Adjie : Si Tangan Jahil yang suka meretas situs – situs. Dia sangat kaya dengan fasilitas mewah dia mampu meretas dimana saja.
+
 Ivan : Detektif dari Pustipanda, sering memakai baju preman untuk menyamar, ahli dalam melacak musuh dengan teknologi.
+
 Mia : Dosen yang lemah lembut , suka teknologi tapi panic dengan teknologi.
+
 Febri : Service desk Pustipanda, rajin tekun dan cerewet
+
 Fajar : Mahasiswa TI yang memakai jasa Adjie karena belum mengerjakan tugas. Dan News Anchor.
+
 Mahasiswa : Figuran saja
 
 SINOPSIS
@@ -14,6 +21,7 @@ Jaman sekarang banyak sekali kasus meretas situs. Entah untuk apa tujuannya tapi
 01.  INT. Dalam Kelas : Laptop Projektor, bantuan tokoh sebagai figuran mahasiswa 4/5
 
 *Mia masuk kekelas Duduk buka laptop *
+
 Mia :Assalamu’alaikum semuanya. Yaa berbicara tentang tugas minggu lalu, buat paper Kriptografi dalam Kehidupan. Siapa yang sudah mengumpulkan di web ibu?
 
 Mahasiswa : Saya sudah bu saya sudah.
@@ -27,8 +35,7 @@ Mahasiswa :“Siaap buuu”
 
 Sudah Buka Web
 
-Mia
-Jadi nilai tugas tugas kalian ini akan ibu publish di web ini juga nantinya, agar kalian tau dan transparan. File – file tugas kalian aka nada di database uin yang bermanfaat nantinya untuk riset setelah ibu nilai. Ayo kita lihat dari file yang pertama mengumpulkan.
+Mia : Jadi nilai tugas tugas kalian ini akan ibu publish di web ini juga nantinya, agar kalian tau dan transparan. File – file tugas kalian aka nada di database uin yang bermanfaat nantinya untuk riset setelah ibu nilai. Ayo kita lihat dari file yang pertama mengumpulkan.
 *tibaa tiba *
 Waduh kok web ibu kenapa nih gak bisa di akses.
 

@@ -4,6 +4,7 @@
             
             Adjie : Mahasiswa yang menggunakan software bajakan.
             Ivan : Mahasiswa yang menggunakan software ori.
+            Fajar : Mahasiswa dan ketua kelas.
             Mia : Dosen yang lemah lembut.
             Mahasiswa : Figuran saja.
 
@@ -41,4 +42,10 @@ Mahasiswa : Sudah cukup Bu.
 
 Mia : Baiklah, Ibu jelaskan kembali. Jadi, pengertian Software ini yaitu sekumpulan data elektronik yang disimpan dan diatur oleh komputer berupa program yang dapat menjalankan suatu perintah tertentu yang dapat terhubung dengan perangkat lain. Dengan demikian, software ini dapat bekerja secara simultan.
 
-Mia : (Sambil membuka slide ppt selanjutnya) Selanjutnya yaitu berkaitan dengan softw
+Mia : (Sambil membuka slide ppt selanjutnya) Selanjutnya yaitu berkaitan dengan jenis-jenis software. Adakah dari kalian yang bisa menyebutkan jenis-jenis software?
+
+Fajar :(Menyalakan Mic) Saya Bu.
+
+Mia : Oke, Silakan Fajar.
+
+Fajar : Jenis-jenis software itu ada Operating System, Application Software, Utility Software, Malware 

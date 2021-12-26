@@ -48,4 +48,13 @@ Fajar :(Menyalakan Mic) Saya Bu.
 
 Mia : Oke, Silakan Fajar.
 
-Fajar : Jenis-jenis software itu ada Operating System, Application Software, Utility Software, Malware 
+Fajar : Jenis-jenis software itu ada Operating System, Application Software, Utility Software, dan Malware Bu
+
+Mia : Tepat sekali jawaban dari Fajar. (Sambil membuka slide ppt dan lanjut menjelaskan jenis-jenis software secara rinci)
+
+Mia : Sebelum lanjut ke slide berikutnya, dari materi yang Ibu telah jelaskan ini apakah ada yang ingin ditanyakan?
+
+Ivan : Untuk saat ini belum ada Bu.
+
+Mia : Baiklah jika belum ada, Ibu akan lanjutkan ke slide berikutnya. 
+      

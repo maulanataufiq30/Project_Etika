@@ -1,16 +1,12 @@
-#Judul Drama : Pembajakan Software
+#Judul Drama : Software Bajakan
 
 #Profil Tokoh
 
-Adjie : Si Tangan Jahil yang suka membajak software dengan keahlian nya. 
+Adjie : Mahasiswa yang menggunakan software bajakan.
 
-Ivan : Detektif dari Pustipanda, sering memakai baju preman untuk menyamar, ahli dalam melacak musuh dengan teknologi.
+Ivan : Mahasiswa yang menggunakan software ori.
 
-Mia : Dosen yang lemah lembut , suka teknologi tapi panic dengan teknologi.
-
-Febri : Service desk Pustipanda, rajin tekun dan cerewet
-
-Fajar : Mahasiswa TI yang memakai jasa Adjie karena belum mengerjakan tugas. Dan News Anchor.
+Mia : Dosen yang lemah lembut.
 
 Mahasiswa : Figuran saja
 
@@ -18,22 +14,29 @@ SINOPSIS
 Jaman sekarang banyak sekali kasus meretas situs. Entah untuk apa tujuannya tapi inilah realita yang terjadi. Hacker mulai mengincar situs – situs dan akun pendidikan. Website dosen juga menjadi incaran para tangan – tangan jahil. Website dosen tidak jarang berisi tugas – tugas kuliah mahasiswa dan juga data – data pembelajaran. Ini mungkin diambil celah oleh tangan jahil untuk menjual tugas mahasiswa itu kepada mahasiswa yang malas mengerjakannya. Atau si tangan jahil memanfaatkan ilmunya untuk mengganti nilai mahasiswa di akun dosen AIS. Ini sebuah kejadian yang menyusahkan dan juga menguntungan bagi si tangan jahil. Si tangan jahil diduga menjual jasa mengganti nilai dan menjual tugas – tugas mahasiswa kepada mahasiswa lainnya. Dosen harus waspada dengan kehadiran si tangan jahil.
 
 
-01.  INT. Dalam Kelas : Laptop Projektor, bantuan tokoh sebagai figuran mahasiswa 4/5
+01.  Dalam Ruang Virtual Class (Zoom Meeting): Laptop, bantuan tokoh sebagai figuran mahasiswa 4/5
 
-*Mia masuk kekelas Duduk buka laptop *
+*Mia masuk ke ruang virtual class *
 
-Mia :Assalamu’alaikum semuanya. Yaa berbicara tentang tugas minggu lalu, buat paper Kriptografi dalam Kehidupan. Siapa yang sudah mengumpulkan di web ibu?
+Mia :Assalamu’alaikum wr.wb... Selamat siang semuanya, berbicara tentang materi minggu lalu, berkaitan dengan etika penggunaan software. Siapa yang bisa menjelaskan  pengertian dari software?
 
-Mahasiswa : Saya sudah bu saya sudah.
+Mahasiswa : Saya bu. (Menjawab secara bersamaan)
 
-Mia :Baik , ibu cek sekarang yaa.
-*berniat buka webnya *
-Camera : shoot ke laptop
-Mia : Yang gak ngumpulin nilainya ibu kurangin yaa 
-Camera : Shoot ke Mia
-Mahasiswa :“Siaap buuu”
+Mia :Baiklah, ibu tunjuk salah satu saja ya. Adjie silakan memberikan tanggapan.
 
-Sudah Buka Web
+Adjie : Baik Bu. Jadi, menurut pendapat saya pengertian dari software adalah sekumpulan data yang telah diformat dan disimpan secara digital Bu.
+
+Mia : Oke, apakah semua setuju dengan pendapat Adjie? Atau ada yang ingin menambahkan diperbolehkan mengangkat tangan.
+
+Ivan : (Mengaktifkan fitur hand raise)
+
+Mia : Oke Ivan, apakah kamu setuju atau ingin menanggapi pendapat Adjie?
+
+Ivan : (Menyalakan Mic) Saya ingin menanggapi pendapat Adjie Bu.
+
+Mia : Baik, Silakan Ivan!
+
+Ivan : Kalau menurut saya, software 
 
 Mia : Jadi nilai tugas tugas kalian ini akan ibu publish di web ini juga nantinya, agar kalian tau dan transparan. File – file tugas kalian aka nada di database uin yang bermanfaat nantinya untuk riset setelah ibu nilai. Ayo kita lihat dari file yang pertama mengumpulkan.
 *tibaa tiba *

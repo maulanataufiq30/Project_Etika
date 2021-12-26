@@ -1,5 +1,7 @@
 #Judul Drama : Software Bajakan
+
 #Profil Tokoh
+            
             Adjie : Mahasiswa yang menggunakan software bajakan.
             Ivan : Mahasiswa yang menggunakan software ori.
             Mia : Dosen yang lemah lembut.

@@ -17,7 +17,12 @@ Dalam Ruang Virtual Class (Zoom Meeting): Laptop, bantuan tokoh sebagai figuran 
 
 *Fajar masuk ke ruang virtual class *
 
-Fajar :( Sambil membuka slide ppt) Assalamu’alaikum wr.wb... Selamat siang semuanya, berbicara tentang materi minggu lalu, berkaitan dengan etika penggunaan software. Siapa yang bisa menjelaskan  kembali pengertian dari software? 
+Fajar :( Sambil membuka slide ppt) Assalamu’alaikum wr.wb Selamat siang semuanya
+
+Mahasiswa : Waalaikumsalam wr.wb  Selamat siang Pak(menjawab secara bersamaan) 
+
+Fajar: Untuk hari ini kita melanjutkan materi minggu lalu ya, berkaitan dengan etika penggunaan software. Untuk mereview materi sebelumnya, siapa yang bisa menjelaskan
+       kembali pengertian dari software? 
 
 Mahasiswa : Saya Pak. (Menjawab secara bersamaan)
 
@@ -101,4 +106,12 @@ Mia : Baik pak (Share screen Layar menampilkan software original) ini pak saya m
 
 Fajar : Nah ini termasuk contoh Software original walaupun masih windows 7 tetapi software nya memiliki lisensi yang original bagus Mia.
 
-Mia : Terima Kasih Pak.
+Mia : Terima kasih Pak.
+
+Fajar : Nah, untuk hari ini mungkin hanya itu saja yang bisa Bapak sampaikan. Masih ada sisa waktu 10 menit lagi jika ada yang ingin ditanyakan terkait dengan materi hari ini, saya persilakan.
+
+Mia : Belum ada Pak.
+
+Fajar : Baiklah, jika tidak ada yang bertanya. Bapak tutup perkuliahan hari ini, Assalamualaikum wr.wb
+
+Mahasiswa : Waalaikumsalam wr.wb terima kasih Pak (menjawab secara bersamaan)

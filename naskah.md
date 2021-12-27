@@ -9,7 +9,7 @@
             Mahasiswa : Figuran saja.
 
 SINOPSIS
-?
+Zaman sekarang ini kejahatan dalam bidang teknologi semakin banyak dan ada dimana - mana terutama dalam bidang software banyak para cracker yang membuat software bajakan untuk bisa mendapatkan lisensi dari software original secara gratis dengan menggunakan keahlian mereka dengan membuat patch untuk menghasilkan lisensi secara ilegal mereka berhasil membajak banyak software terutama untuk kalangan orang yang tidak mampu membeli lisensi yang original banyak yang menggunakan lisensi illegal ini untuk bisa membuat software yang tidak berlisensi menjadi software yang berlisensi secara ilegal sebagaimana banyak terjadi di kalangan mahasiswa
 
 
 01.  Dalam Ruang Virtual Class (Zoom Meeting): Laptop, bantuan tokoh sebagai figuran mahasiswa 4/5
@@ -65,7 +65,7 @@ Mia : Saya Pak.
 
 Fajar : Iya, silakan Mia.
 
-Mia : Menurut saya software yang original itu adalah ........ sedangkan software yang bajakan adalah.........
+Mia : Menurut saya software yang original itu adalah software yang di beli langsung dari website resmi yang membuat software tersebut sedangkan software yang bajakan adalah software yang sudah di modifikasi menyerupai software resmi dengan membuat lisensi ilegal dan memiliki keterbatasan fitur dari software resmi.
 
 Fajar : Apakah kamu bisa memberikan contohnya?
 
@@ -78,4 +78,26 @@ Mahasiswa : (Masih terdiam)
 Ivan : (Menyalakan Mic) Saya ingin bertanya Pak, untuk contoh yang dimaksud ini seperti apa ya Pak? Contoh secara keselurahan ataukah hanya memberikan contoh sesuai dengan
        software yang kita pakai sekarang?
        
-Fajar : 
+Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari adjie?
+
+Adjie : Baik pak.
+
+Fajar : Ok langsung saja share screen layar nya.
+
+Adjie : (Share Screen Layar membuka software microsoft Word) ini pak eh kok gk bisa di buka microsoft word nya.
+
+Fajar : Adjie kamu memakai software bajakan ya.
+
+Adjie : iya pak saya mendownload software nya dari website tidak resmi dengan menggunakan patch jadi software nya sering crash dan error seperti ini pak.
+
+Fajar : Baiklah Adjie ini termasuk pelanggaran hak cipta dengan menggunakan software illegal seperti ini dapat merugikan perusahaan yang membuat software tersebut dan bisa terkena sanksi hukuman berat untuk software microsoft bisa menggunakan lisensi online apabila tidak mampu membeli lisensi original nya ya adjie.
+
+Adjie : Baik pak terima kasih penjelasan nya (menutup share screen layar).
+
+Fajar : sekarang Mia bisa langsung share screen layar untuk menunnjukkan software apa yang di pakai?
+
+Mia : Baik pak (Share screen Layar menampilkan software original) ini pak saya memakai windows original dengan mempunyai logo khusus di bagian kanan bawah.
+
+Fajar : Nah ini termasuk contoh Software original walaupun masih windows 7 tetapi software nya memiliki lisensi yang original bagus mia.
+
+Mia : Terima Kasih Pak.

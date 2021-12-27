@@ -78,7 +78,7 @@ Mahasiswa : (Masih terdiam)
 Ivan : (Menyalakan Mic) Saya ingin bertanya Pak, untuk contoh yang dimaksud ini seperti apa ya Pak? Contoh secara keselurahan ataukah hanya memberikan contoh sesuai dengan
        software yang kita pakai sekarang?
        
-Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari adjie?
+Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari Adjie?
 
 Adjie : Baik pak.
 
@@ -88,16 +88,16 @@ Adjie : (Share Screen Layar membuka software microsoft Word) ini pak eh kok gk b
 
 Fajar : Adjie kamu memakai software bajakan ya.
 
-Adjie : iya pak saya mendownload software nya dari website tidak resmi dengan menggunakan patch jadi software nya sering crash dan error seperti ini pak.
+Adjie : Iya Pak, saya mendownload software nya dari website tidak resmi dengan menggunakan patch jadi software nya sering crash dan error seperti ini Pak.
 
-Fajar : Baiklah Adjie ini termasuk pelanggaran hak cipta dengan menggunakan software illegal seperti ini dapat merugikan perusahaan yang membuat software tersebut dan bisa terkena sanksi hukuman berat untuk software microsoft bisa menggunakan lisensi online apabila tidak mampu membeli lisensi original nya ya adjie.
+Fajar : Baiklah Adjie ini termasuk pelanggaran hak cipta dengan menggunakan software illegal seperti ini dapat merugikan perusahaan yang membuat software tersebut dan bisa terkena sanksi hukuman berat untuk software microsoft bisa menggunakan lisensi online apabila tidak mampu membeli lisensi original nya ya Adjie.
 
-Adjie : Baik pak terima kasih penjelasan nya (menutup share screen layar).
+Adjie : Baik pak, terima kasih penjelasan nya (menutup share screen layar).
 
-Fajar : sekarang Mia bisa langsung share screen layar untuk menunnjukkan software apa yang di pakai?
+Fajar : sekarang Mia bisa langsung share screen layar untuk menunjukkan software apa yang di pakai?
 
 Mia : Baik pak (Share screen Layar menampilkan software original) ini pak saya memakai windows original dengan mempunyai logo khusus di bagian kanan bawah.
 
-Fajar : Nah ini termasuk contoh Software original walaupun masih windows 7 tetapi software nya memiliki lisensi yang original bagus mia.
+Fajar : Nah ini termasuk contoh Software original walaupun masih windows 7 tetapi software nya memiliki lisensi yang original bagus Mia.
 
 Mia : Terima Kasih Pak.

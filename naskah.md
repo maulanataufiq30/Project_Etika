@@ -8,8 +8,8 @@
             Fajar : Dosen TI.
             Mahasiswa : Figuran saja.
 
-SINOPSIS
-Zaman sekarang ini kejahatan dalam bidang teknologi semakin banyak dan ada dimana - mana terutama dalam bidang software banyak para cracker yang membuat software bajakan untuk bisa mendapatkan lisensi dari software original secara gratis dengan menggunakan keahlian mereka dengan membuat patch untuk menghasilkan lisensi secara ilegal mereka berhasil membajak banyak software terutama untuk kalangan orang yang tidak mampu membeli lisensi yang original banyak yang menggunakan lisensi illegal ini untuk bisa membuat software yang tidak berlisensi menjadi software yang berlisensi secara ilegal sebagaimana banyak terjadi di kalangan mahasiswa
+#SINOPSIS
+            Zaman sekarang ini kejahatan dalam bidang teknologi semakin banyak dan ada dimana - mana terutama dalam bidang software banyak para cracker yang membuat software bajakan untuk bisa mendapatkan lisensi dari software original secara gratis dengan menggunakan keahlian mereka dengan membuat patch untuk menghasilkan lisensi secara ilegal mereka berhasil membajak banyak software terutama untuk kalangan orang yang tidak mampu membeli lisensi yang original banyak yang menggunakan lisensi illegal ini untuk bisa membuat software yang tidak berlisensi menjadi software yang berlisensi secara ilegal sebagaimana banyak terjadi di kalangan mahasiswa
 
 
 01.  Dalam Ruang Virtual Class (Zoom Meeting): Laptop, bantuan tokoh sebagai figuran mahasiswa 4/5

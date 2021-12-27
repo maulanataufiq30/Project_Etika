@@ -115,3 +115,5 @@ Mia : Belum ada Pak.
 Fajar : Baiklah, jika tidak ada yang bertanya. Bapak tutup perkuliahan hari ini, Assalamualaikum wr.wb
 
 Mahasiswa : Waalaikumsalam wr.wb terima kasih Pak (menjawab secara bersamaan)
+
+Kesimpulan dari cerita ini adalah jangan lah menggunakan software bajakan karena dapat merugikan perusahaan yang membuat software tersebut software bajakan rentan mengandung virus apabila salah dalam memilih nya dan komputer yang menggunakan software bajakan bisa terkena virus yang di bawa oleh software bajakan tersebut jadi gunakan lah software yang original dan membeli lisensi resmi dari perusahaan tersebut untuk membantu perusahaan dalam mengembangkan software dan mendapatkan fitur yang lebih baik dan melakukan pembajakan software dapat terkena hukum pidana apabila pihak perusahaan melaporkan nya.

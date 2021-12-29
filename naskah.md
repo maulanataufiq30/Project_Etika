@@ -84,7 +84,7 @@ Mahasiswa : (Masih terdiam)
 Ivan : (Menyalakan Mic) Saya ingin bertanya Pak, untuk contoh yang dimaksud ini seperti apa ya Pak? Contoh secara keselurahan ataukah hanya memberikan contoh sesuai dengan
        software yang kita pakai sekarang?
        
-Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari Adjie?
+Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini. Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari Adjie?
 
 Adjie : Baik pak.
 

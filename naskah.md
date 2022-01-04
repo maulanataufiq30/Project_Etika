@@ -1,4 +1,4 @@
-#Judul Drama : Software Bajakan
+#Judul Drama : Pencegahan Software Illegal
 
 #Profil Tokoh
             

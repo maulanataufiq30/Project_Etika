@@ -3,7 +3,7 @@
 #Profil Tokoh
             
             Adjie : Mahasiswa yang menggunakan software bajakan.
-            Ivan : Mahasiswa sekaligus ketua kelas.
+            Ana : Mahasiswa sekaligus ketua kelas.
             Mia : Mahasiswa yang menggunakan software ori.
             Fajar : Dosen TI.
             Mahasiswa : Figuran saja.
@@ -32,17 +32,17 @@ Adjie : Baik Pak. Jadi, menurut pendapat saya pengertian dari software adalah se
 
 Fajar : Oke, apakah semua setuju dengan pendapat Adjie? Atau ada yang ingin menambahkan, diperbolehkan untuk mengangkat tangan.
 
-Ivan : (Mengaktifkan fitur hand raise)
+Ana : (Mengaktifkan fitur hand raise)
 
-Fajar : Oke Ivan, apakah kamu setuju atau ingin menanggapi pendapat Adjie?
+Fajar : Oke Ana, apakah kamu setuju atau ingin menanggapi pendapat Adjie?
 
-Ivan : (Menyalakan Mic) Saya ingin menanggapi pendapat Adjie Pak.
+Ana : (Menyalakan Mic) Saya ingin menanggapi pendapat Adjie Pak.
 
-Fajar : Baik, Silakan Ivan!
+Fajar : Baik, Silakan Ana!
 
-Ivan : Kalau menurut saya, software merupakan sebuah jembatan penghubung yang menghubungkan antara pengguna dengan hardware sehingga dapat melakukan suatu perintah tertentu.
+Ana : Kalau menurut saya, software merupakan sebuah jembatan penghubung yang menghubungkan antara pengguna dengan hardware sehingga dapat melakukan suatu perintah tertentu.
 
-Fajar : Pendapat dari Adjie dan juga Ivan sudah cukup baik, untuk yang lain apakah ada yang ingin menambahkan?
+Fajar : Pendapat dari Adjie dan juga Ana sudah cukup baik, untuk yang lain apakah ada yang ingin menambahkan?
 
 Mahasiswa : Sudah cukup Pak.
 
@@ -81,7 +81,7 @@ Fajar : Oke, karena Mia tidak memberikan tanggapan. Silakan untuk yang lain dipe
         
 Mahasiswa : (Masih terdiam)
 
-Ivan : (Menyalakan Mic) Saya ingin bertanya Pak, untuk contoh yang dimaksud ini seperti apa ya Pak? Contoh secara keselurahan ataukah hanya memberikan contoh sesuai dengan
+Ana : (Menyalakan Mic) Saya ingin bertanya Pak, untuk contoh yang dimaksud ini seperti apa ya Pak? Contoh secara keselurahan ataukah hanya memberikan contoh sesuai dengan
        software yang kita pakai sekarang?
        
 Fajar : Untuk Contoh nya ini yaitu software yang kita pakai sekarang ini. Coba masing-masing mahasiswa share Screen software apa saja yang di pakai di mulai dari Adjie?
